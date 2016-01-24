@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Porto Torto]]></title>
         <description><![CDATA[Porto Torto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/porto-torto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 00:44:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 00:50:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/porto-torto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37b52d2d-7787-46dc-b0dd-d182e9e94a20.png">]]></description>
+            <link>https://thegrid.ai/porto-torto/e15387b9-6c09-4bda-858f-7ab9589cb291/index.html</link>
+            <guid isPermaLink="false">e15387b9-6c09-4bda-858f-7ab9589cb291</guid>
+            <pubDate>Sun, 24 Jan 2016 00:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Onde tudo começou]]></title>
             <description><![CDATA[<article><h1>Onde tudo começou</h1><p>Há coisas verdadeiramente fantásticas que dão vontade de ser visitadas e revistadas,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b112659cf4085182fc15cab6fa3f79fe73dae9e4.jpg"></article>]]></description>
-            <link>undefinedonde-tudo-comecou/index.html</link>
+            <link>https://thegrid.ai/porto-torto/onde-tudo-comecou/index.html</link>
             <guid isPermaLink="false">055ba3df-902b-4d6d-939c-1f1b807a12da</guid>
             <pubDate>Sun, 24 Jan 2016 00:44:21 GMT</pubDate>
         </item>
