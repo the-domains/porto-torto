@@ -1,7 +1,7 @@
 name: Porto Torto
 favicon: null
-layout_spectrum: 0.4465342015028
-typography_spectrum: 0.7527195373550057
+layout_spectrum: 0.25125
+typography_spectrum: 0.24187
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5051450335886329
-  lightness: 0.6735150546301156
-  saturation: 0.14686724753119051
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.1875
   rhythmicContrast: 0.8673856786917895
 purpose: []
